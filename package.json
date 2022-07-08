@@ -1,0 +1,20 @@
+{
+  "name": "dash-brooks-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cookies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "excel4node": "^1.7.2",
+    "puppeteer": "^13.0.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
